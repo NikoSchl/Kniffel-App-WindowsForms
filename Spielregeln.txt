@@ -1,0 +1,31 @@
+Pro Runde darf dreimal gewürfelt werden. Bei jeder Runde dürfen
+beliebig viele Würfel behalten werden. Mit den restlichen Würfeln 
+wird erneut gewürfelt. Am Ende müssen die Würfel wie folgt 
+eingetragen werden:
+
+• Im 1er: Die Summe aller gewürfelten Einser eintragen.
+• Im 2er: Die Summe aller gewürfelten Zweier eintragen.
+• Im 3er: Die Summe aller gewürfelten Dreier eintragen.
+• Im 4er: Die Summe aller gewürfelten Vierer eintragen.
+• Im 5er: Die Summe aller gewürfelten Fünfer eintragen.
+• Im 6er: Die Summe aller gewürfelten Sechser eintragen.
+
+• Dreierpasch: Die Punkte entsprechen den gleichen Augenzahlen
+(drei 1er = 3, drei 3er = 9 Punkte). Für einen Dreierpasch braucht 
+es mindestens dreimal die gleiche Zahl.
+• Viererpasch: Die Punkte entsprechen den entsprechenden Augenzahlen. 
+(vier 2er = 8, vier 4er = 16 Punkte). Für einen Viererpasch braucht 
+es mindestens viermal dies gleiche Zahl.
+• Full-House: Ein Full-House bringt 25 Punkte. Für ein Full-House 
+braucht es drei und zwei gleiche Zahlen (zum Beispiel zwei 3er und 
+drei 5er).
+• Kleine Straße: Eine Kleine Straße bringt 30 Punkte. Diese werden 
+durch die Würfelkombination 1-2-3-4, 2-3-4-5 oder 3-4-5-6 erreicht.
+• Große Straße: Eine Große Straße bringt 40 Punkte. Dazu ist die 
+Würfelkombination 1-2-3-4-5 oder 2-3-4-5-6 nötig.
+• Chance: Die Punkteanzahl entspricht der addierten Augen der Würfel. 
+Sie ist wie ein Joker: Wenn keine anderen Spielfelder aus dem 
+Spielblock erwürfelt werden konnten, kann die Chance genutzt werden, 
+um keine 0 Punkte eintragen zu müssen.
+• Kniffel: 50 Punkte bringt ein Kniffel. Um diesen zu erhalten, muss 
+in einem Wurf die gleiche Zahl Fünf Mal gewürfelt werden
