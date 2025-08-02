@@ -43,9 +43,15 @@ namespace Kniffel
         private Button Kniffel = new Button();
         private Button KniffelChance = new Button();
 
-        private string Pfad = @"C:\Users\nico_\Repositories\KniffelApp\Bilder\Wuerfel";
-        private string FromFile = @"C:\Users\nico_\Repositories\KniffelApp\Bilder\Backpicture2.jpg";
-        private string Spielregeln = @"C:\Users\nico_\Repositories\KniffelApp\Spielregeln.txt";
+
+        // trage hier deinen Speicherort/Pfad ein
+        private static readonly string BasisPfad = @"";
+
+        private static readonly string Pfad = Path.Combine(BasisPfad, "Bilder", "Wuerfel");
+        private static readonly string FromFile = Path.Combine(BasisPfad, "Bilder", "Backpicture2.jpg");
+        private static readonly string Spielregeln = Path.Combine(BasisPfad, "Spielregeln.txt");
+
+
         private Bitmap[] Pictures;
 
         private Random random = new Random();
